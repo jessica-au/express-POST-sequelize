@@ -1,0 +1,26 @@
+{
+  "name": "express-POST-sequelize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.5.1",
+    "sequelize": "^6.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessica-au/express-POST-sequelize.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jessica-au/express-POST-sequelize/issues"
+  },
+  "homepage": "https://github.com/jessica-au/express-POST-sequelize#readme"
+}
